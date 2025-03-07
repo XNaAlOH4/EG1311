@@ -1,6 +1,6 @@
-NUS EG1311
+# NUS EG1311 Group 4
 
-Group 4
+### First day
 
 Straight out the gate, I will abandon the Template code and Wiring they provided due to inefficient wiring and programming.
 
@@ -27,7 +27,7 @@ Both Motors Wiring(Wheel face up)
 L: White, R: Brown
 
 We need to swap 1 of them due to rotation flipping when direction flip
-# Swapping has been completed
+Swapping has been completed
 
 Left Wheel(Cat ears point away from user)
 Motor (L:White, R:Brown)
@@ -36,11 +36,24 @@ Right Wheel
 Motor (L:Brown, R:White)
 
 Wire up MOTOR1 to 1A and MOTOR2 to 2A
-# Done
+Done
 
 Now wire White of motor to 2Y 
 
 Things to go over with grp mates:
 1. Orange wire is to connect to battery for higher PWR output
 2. Use rubber band for launch? Servo to tension + release?
-3. 
+
+### Wednesday 26 Feb (First meeting)
+
+Added Servo code and built basket, 2 more motors and new frame
+
+Afterwards, built tower for motor and decided to cutout holes to thread motor wires through to prevent tangling when it is run
+
+### Wednesday 5 Mar
+
+Added visible delay and built the prototype
+
+Tested: found out wheels were too slippery, so we are gonna add the foam thing to increase grip
+
+Then to reduce weight, we decided to remove the breadboard and replace it with the wires to act as buses and maybe some cardboard
